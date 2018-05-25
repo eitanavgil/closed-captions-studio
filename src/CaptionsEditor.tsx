@@ -10,7 +10,7 @@ interface Props {
 interface State {
     srt?: any;
 }
-class App extends React.Component<Props, State> {
+class CaptionsEditor extends React.Component<Props, State> {
     sourceInput: HTMLInputElement;
     replaceInput: HTMLInputElement;
     constructor(props: Props) {
@@ -189,4 +189,4 @@ class App extends React.Component<Props, State> {
         );
     }
 }
-export default App;
+export default CaptionsEditor;

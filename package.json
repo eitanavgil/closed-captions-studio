@@ -9,7 +9,8 @@
     "react": "^16.4.0",
     "react-bootstrap": "^0.32.1",
     "react-dom": "^16.4.0",
-    "react-scripts-ts": "2.16.0"
+    "react-scripts-ts": "2.16.0",
+    "kaltura-typescript-client": "file:libs/kaltura-typescript-client-6.3.1-v20180513-153409.tgz"
   },
   "scripts": {
     "start": "react-scripts-ts start",
